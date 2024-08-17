@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/teste.dir/src/main.cpp.o CMakeFiles/teste.dir/src/glad.c.o -o teste  -lglfw /usr/lib/x86_64-linux-gnu/libGL.so 

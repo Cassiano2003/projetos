@@ -1,0 +1,3 @@
+/home/kirito2003/Documentos/programaçao/C++/CG/CMakeFiles/teste.dir
+/home/kirito2003/Documentos/programaçao/C++/CG/CMakeFiles/edit_cache.dir
+/home/kirito2003/Documentos/programaçao/C++/CG/CMakeFiles/rebuild_cache.dir
