@@ -1,0 +1,16 @@
+v 4
+file . "addsub.vhd" "fc455db320dc25c10283e8bb367c5cc644206c9a" "20240926182649.808":
+  entity addsub at 1( 0) + 0 on 13;
+  architecture behavioral of addsub at 16( 291) + 0 on 14;
+file . "alu.vhd" "93dec142f56509ae3d3b0956aa86c16568478c6b" "20240926182649.808":
+  entity alu at 1( 0) + 0 on 17;
+  architecture structural of alu at 16( 299) + 0 on 18;
+file . "andor.vhd" "0c162ee8544176e782316c11c0534f16896703ea" "20240926182649.808":
+  entity andor at 1( 0) + 0 on 11;
+  architecture behavioral of andor at 15( 264) + 0 on 12;
+file . "multiplex2x1.vhd" "21d2c50cf3a5d11cc90c6f36518fc1a7e89494cd" "20240926182649.808":
+  entity multiplex2x1 at 1( 0) + 0 on 15;
+  architecture behavioral of multiplex2x1 at 15( 280) + 0 on 16;
+file . "teste.vhd" "8e28c38a5e7d36dafd196c7762bea34febe4a629" "20240926182649.808":
+  entity teste at 1( 0) + 0 on 19;
+  architecture rtl of teste at 10( 119) + 0 on 20;

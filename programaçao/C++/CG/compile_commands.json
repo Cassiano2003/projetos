@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/cassiano/Documentos/programaçao/C++/CG",
+  "command": "/usr/bin/g++ -I/home/cassiano/Documentos/programaçao/C++/CG/dependencias -g -o CMakeFiles/teste.dir/src/main.cpp.o -c /home/cassiano/Documentos/programaçao/C++/CG/src/main.cpp",
+  "file": "/home/cassiano/Documentos/programaçao/C++/CG/src/main.cpp",
+  "output": "CMakeFiles/teste.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/cassiano/Documentos/programaçao/C++/CG",
+  "command": "/usr/bin/gcc -I/home/cassiano/Documentos/programaçao/C++/CG/dependencias -g -o CMakeFiles/teste.dir/src/glad.c.o -c /home/cassiano/Documentos/programaçao/C++/CG/src/glad.c",
+  "file": "/home/cassiano/Documentos/programaçao/C++/CG/src/glad.c",
+  "output": "CMakeFiles/teste.dir/src/glad.c.o"
+}
+]

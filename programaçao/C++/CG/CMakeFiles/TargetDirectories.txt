@@ -1,0 +1,3 @@
+/home/cassiano/Documentos/programaçao/C++/CG/CMakeFiles/teste.dir
+/home/cassiano/Documentos/programaçao/C++/CG/CMakeFiles/edit_cache.dir
+/home/cassiano/Documentos/programaçao/C++/CG/CMakeFiles/rebuild_cache.dir

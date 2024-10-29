@@ -1,0 +1,13 @@
+v 4
+file . "teste_s.vhd" "ab8a43079c61f5c33bae2bb7ef5cab0e74cb2470" "20241006173705.655":
+  entity teste_s at 1( 0) + 0 on 15;
+  architecture rtl of teste_s at 10( 121) + 0 on 16;
+file . "serialtoparallel.vhd" "725816df93ca1db92b08992df87e58371e08d537" "20241006173705.655":
+  entity serialtoparallel at 1( 0) + 0 on 13;
+  architecture structural of serialtoparallel at 15( 260) + 0 on 14;
+file . "reg_n.vhd" "1126f949e8a96272f3b26cc30928b577fb710909" "20241006173705.655":
+  entity reg_n at 1( 0) + 0 on 11;
+  architecture behavioral of reg_n at 15( 268) + 0 on 12;
+file . "paralleltoserial.vhd" "64dfc51933bc7c14e2453dbf7be9e9df2e18c0cc" "20241006173705.632":
+  entity paralleltoserial at 1( 0) + 0 on 4;
+  architecture structural of paralleltoserial at 16( 324) + 0 on 4;

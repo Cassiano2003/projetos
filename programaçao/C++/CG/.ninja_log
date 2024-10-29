@@ -1,0 +1,4 @@
+# ninja log v5
+615	703	1728062121706383627	teste	70bf3b890da7416a
+1	615	1728062121618384210	CMakeFiles/teste.dir/src/main.cpp.o	21132d875bcf356a
+1	129	1724174236707370879	CMakeFiles/teste.dir/src/glad.c.o	34708244aee97e44

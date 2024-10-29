@@ -1,0 +1,13 @@
+entity mux_4_tb is
+end mux_4_tb;
+
+architecture teste of mux_4_tb is
+    signal d0, d1, d2, d3, c, r : bit;
+    begin
+        mu4 : entity work.mux_4(dataflow)
+            port map (d0,d1,d2,d3,c,r);
+        estimulo : process is
+            type linha is record
+                d0,d1,d2,d3,c,r : bit;
+            end record;
+            type vet_linha is 

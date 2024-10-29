@@ -1,0 +1,19 @@
+v 4
+file . "main.vhd" "66f906cea5e8d791ac92699cd4747b70ca35f046" "20241028203035.597":
+  entity main at 1( 0) + 0 on 4;
+  architecture rtl of main at 22( 553) + 0 on 4;
+file . "clk_div.vhd" "c73efda23afd30b1ae9b4326c4a576a594ee5e61" "20241028203035.597":
+  entity clk_div at 1( 0) + 0 on 4;
+  architecture behavioral of clk_div at 12( 171) + 0 on 4;
+file . "teste_binto7seg.vhd" "3ad6312d5ccf0b499c55263cf15a7f3cab6b835d" "20241028203035.598":
+  entity teste_binto7seg at 1( 0) + 0 on 4;
+  architecture rtl of teste_binto7seg at 7( 83) + 0 on 4;
+file . "binto7seg.vhd" "0b9cf95224d1468b3f4a9660c64257eddc4b31f0" "20241028203035.597":
+  entity binto7seg at 1( 0) + 0 on 4;
+  architecture behavioral of binto7seg at 11( 269) + 0 on 4;
+file . "teste_trava.vhd" "7864874f0005a579b514df7a32f431593ab49499" "20241028203035.635":
+  entity teste_trava at 1( 0) + 0 on 13;
+  architecture rtl of teste_trava at 14( 297) + 0 on 14;
+file . "Trava.vhd" "ca4caf4f5a1ea04ef7d8ae09fb62592d41f1f172" "20241028203035.635":
+  entity trava at 2( 28) + 0 on 11;
+  architecture arq_trava of trava at 24( 529) + 0 on 12;

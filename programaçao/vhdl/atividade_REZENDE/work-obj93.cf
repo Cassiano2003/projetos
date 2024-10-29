@@ -1,0 +1,10 @@
+v 4
+file . "fullad1.vhd" "47c8193f9594281f7fdb07104abef21c9580efe8" "20240906201602.397":
+  entity fullad1 at 1( 0) + 0 on 11;
+  architecture behavioral of fullad1 at 11( 157) + 0 on 12;
+file . "fulladder4.vhd" "0760e46cb328636fac3e44e1dc4d648fbf970325" "20240906201602.372":
+  entity fulladder4 at 1( 0) + 0 on 4;
+  architecture structural of fulladder4 at 13( 242) + 0 on 4;
+file . "tb_somador1.vhd" "f29ed23fd754df98b0047ca85623e192a7413734" "20240906201602.398":
+  entity tb_somador1 at 1( 0) + 0 on 13;
+  architecture hibrida of tb_somador1 at 7( 79) + 0 on 14;
